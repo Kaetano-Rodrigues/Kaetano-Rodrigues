@@ -1,6 +1,7 @@
 ## Olá,meu nome é Kaetano 👋
 
-![385750-what-does-a-full-stack-developer-do-javascript-in-plain-english](https://github.com/Kaetano-Rodrigues/Kaetano-Rodrigues/assets/75049194/d86b03bb-ee84-4eb0-8873-77bd004f2467)
+![image](https://github.com/Kaetano-Rodrigues/Kaetano-Rodrigues/assets/75049194/33959396-9a15-4593-9f9b-d7e01fe85ea7)
+
 
 Desenvolvedor Front-End Junior apaixonado por tecnologia
 com habilidades em programação e desejo de iniciar uma
