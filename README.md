@@ -1,6 +1,7 @@
 ## Olá,meu nome é Kaetano 👋
 
-![image](https://github.com/Kaetano-Rodrigues/Kaetano-Rodrigues/assets/75049194/33959396-9a15-4593-9f9b-d7e01fe85ea7)
+![image](https://github.com/Kaetano-Rodrigues/Kaetano-Rodrigues/assets/75049194/5568be02-f4cb-47c8-9086-db1f1ab1f10f)
+
 
 
 Desenvolvedor Front-End Junior apaixonado por tecnologia
