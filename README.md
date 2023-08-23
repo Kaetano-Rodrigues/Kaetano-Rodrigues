@@ -2,7 +2,7 @@
 
 ![385750-what-does-a-full-stack-developer-do-javascript-in-plain-english](https://github.com/Kaetano-Rodrigues/Kaetano-Rodrigues/assets/75049194/d86b03bb-ee84-4eb0-8873-77bd004f2467)
 
-Desenvolvedor Full-Stack Junior apaixonado por tecnologia
+Desenvolvedor Front-End Junior apaixonado por tecnologia
 com habilidades em programação e desejo de iniciar uma
 carreira profissional em desenvolvimento de software.Busco oportunidades de
 contribuir em um ambiente dinâmico, onde possa aplicar meus
@@ -17,9 +17,6 @@ conhecimentos e continuar aprimorando minhas habilidades
 
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 
-**Banco de Dados:**
-
- <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)"> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 
 ## Voçê pode me encontrar também
 <a href="https://www.linkedin.com/in/kaetano-rodrigues-b86380271/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
