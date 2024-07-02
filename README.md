@@ -1,6 +1,6 @@
 ## Olá,meu nome é Kaetano 👋
 
-Sou um entusiasta de tecnologia e atualmente estagiário em engenharia de dados, buscando aprender e evoluir constantemente. Este é meu espaço no GitHub, onde compartilho projetos, estudos e ideias sobre análise de dados, engenharia de dados e tudo mais que me fascina no mundo da programação. 
+Sou um entusiasta de tecnologia e atualmente estagiário em engenharia de dados, buscando aprender e evoluir constantemente. Este é meu espaço no GitHub, onde compartilho projetos, estudos sobre análise de dados, engenharia de dados e tudo mais que me fascina no mundo da programação. 
 Sinta-se à vontade para explorar meus repositórios e deixar suas contribuições!
 
 ### O que você encontrará aqui:
